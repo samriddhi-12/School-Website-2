@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background: white;
+    background-repeat: no-repeat;
+}
+
+Mdps{
+    border-radius: 50px;
+    width: 30px;
+    background-color: darkgreen
+    
+}
+
+travel_maimDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    
+}
+
+.travel_mainDiv img{
+    width: 230px;
+
+}
+
+h3{
+   font-family: Roboto; 
+   font-size: 24px;
+   color:darkgreen;
+    
+}
+
+h5{
+    font-family: Roboto;
+    color: darkgreen;
+   
+}
+
+h4{
+    font-family:Roboto;
+     
+}
